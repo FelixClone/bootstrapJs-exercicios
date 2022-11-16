@@ -1,0 +1,17 @@
+#search-field{
+    height: 350px;
+    width: 400px;
+    margin: 15px auto;
+}
+
+header{
+    height: 160px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+input{
+    margin-top: 8px;
+}
